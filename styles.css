@@ -1,0 +1,132 @@
+h1{
+    font-size:25px;
+    color: white;
+}
+
+body{
+    background-color: black;
+    text-align: center;
+    color: #fb8b14;
+    font-family: 'Major Mono Display', monospace;
+    font-size:15px;
+}
+
+.dare {
+    font-size: 35px;
+}
+
+p{
+    font-size:40px;
+}
+
+.aware{
+    font-size:30px;
+}
+
+p{
+    font-size:20px;
+}
+
+.start {
+    color:white;
+    background: black;
+    border: solid #fb8b14 20px;
+    font-size: 35px;
+    border-radius: 75px;
+    font-family: 'Major Mono Display', monospace;
+    padding:10px;   
+}
+
+.everything {
+    display: none;
+}
+
+.images {
+    width: 500px;
+}
+
+#depression {
+    
+}
+
+#anxiety {
+    
+}
+
+#EatingDisorder {
+    
+}
+
+#ADHD {
+    
+}
+
+#OCD {
+    
+}
+
+.d-t {
+    display: none;
+    padding:25px;
+    border:5px dashed WHITE;
+    margin:20px;
+    background-color:#A3E4D7;
+    
+}
+
+.d-t:hover{
+    background-color:#A3E4D7;
+    background-color:#D6EAF8  ;
+}
+.a-t {
+    display: none;
+    padding:25px;
+    border:5px solid black;
+    margin:20px;
+    background-color:#FADBD8;
+}
+
+.a-t:hover{
+    background-color:#bae2dc;
+}
+
+.e-t {
+    display: none;
+    padding:25px;
+    border:5px solid WHITE;
+    margin:20px;
+    background-color:#FADBD8  ;
+}
+
+.e-t:hover{
+    background-color:#F9E79F;
+}
+
+.adhd-t {
+    display: none;
+    padding:25px;
+    border:5px dashed white;
+    margin:20px;
+    background-color:#A2D9CE;
+}
+
+.adhd-t:hover{
+    background-color:#F6DDCC  ;
+}
+
+.o-t {
+    display: none;
+    padding:25px;
+    border:5px dotted white;
+    margin:20px;
+    background-color:#afaee5;
+}
+
+.o-t:hover{
+    background-color:#eab9dd;
+}
+
+.tw{
+    color:#c41111;
+}
+
